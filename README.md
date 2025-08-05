@@ -75,6 +75,6 @@ ou me chame para freelas, parcerias e projetos desafiadores!
 
 ## ⚙️ Repositórios em construção...
 
-![Coding](https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif)
+![Coding](https://giphy.com/gifs/pudgypenguins-building-build-brick-Mah9dFWo1WZX0WM62Q)
 
 Automação, dados e marketing de performance: cases em breve por aqui! 👩‍💻🚧
