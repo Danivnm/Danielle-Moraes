@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou a Danielle Moraes
 
-![Marketing](https://media.giphy.com/media/fuJPZBIIqzbt1k3SxN/giphy.gif)
+![Marketing]([https://media.giphy.com/media/fuJPZBIIqzbt1k3SxN/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTI5am5jeHQzMHEweXIza3FycDU3b2JyMWo5ZG8yNXphb3AwMTIybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif))
 
 Sou especialista em **Marketing Digital, SEO e Copywriting Estratégico**, com foco em **captação de leads, tráfego pago e crescimento de negócios SaaS e digitais**.  
 Apaixonada por performance, dados e criatividade, ajudo empresas a escalarem suas vendas com estratégias personalizadas e mensuráveis.
