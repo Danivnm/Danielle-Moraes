@@ -33,7 +33,7 @@ Atuo com empresas de tecnologia e **SaaS (Software as a Service)**, desenvolvend
 
 ## 📈 Tecnologias e Ferramentas
 
-![Tecnologia](https://giphy.com/gifs/chbaluch-tech-technology-technologia-cEUAbg1Q7mQ1a84int)
+![Tecnologia] (https://giphy.com/gifs/chbaluch-tech-technology-technologia-cEUAbg1Q7mQ1a84int)
 
 - Google Ads | Meta Ads  
 - Google Analytics | Tag Manager | Looker Studio  
